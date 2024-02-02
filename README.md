@@ -1,1 +1,1 @@
-# web_practice
+Simple shell
