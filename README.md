@@ -1,1 +1,1 @@
-Simple shell
+Web practice
