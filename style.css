@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 header{
     text-decoration: solid;
     font-weight: bold;
@@ -28,34 +27,3 @@ span{
     float: left;
    
 }
-=======
-header{
-    text-decoration: solid;
-    font-weight: bold;
-    padding: 10px;
-    background-color: rgb(254, 255, 255);
- 
-}
-div{
-    text-align: center;
-    padding: 15px;
-    font-family: monospace;
-    color: darkgray;
-}
-demo{
-    padding: 10px;
-}
-feat{
-    background-color: aliceblue;
-}
-footer{
-    background-color: lightgrey;
-    margin-top: 60px;
-    margin-bottom: 100px;
-    max-width: 100%;
-}
-span{
-    float: left;
-   
-}
->>>>>>> 7f670cc5851a4d1e521b68caa0b1e3247f302d76
